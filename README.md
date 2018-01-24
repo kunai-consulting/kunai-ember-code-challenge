@@ -9,7 +9,7 @@
 * **Post** must have a title
 * The length of the text has to be no more than 1000 characters
 * **created_at** is set on the client side
-2. As an **Author** I can see list of **Posts**
+2. As an **Author** I can see list of **Posts** (with title and date of creation)
 
 ## Extra
 
